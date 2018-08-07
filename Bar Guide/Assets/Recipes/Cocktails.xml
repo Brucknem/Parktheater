@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cocktails>
+  <Cocktail>
+    <Name>Mojito</Name>
+    <Zutaten>
+      <Zutat>6 Blätter Minze</Zutat>
+      <Zutat>2 Achtel Limetten</Zutat>
+      <Zutat>1 cl Lime Juice</Zutat>
+      <Zutat>2 Päckchen Zucker</Zutat>
+      <Zutat>5 cl Bacardi Carta Blanca</Zutat>
+      <Zutat>Umrühren</Zutat>
+      <Zutat>Mit Soda auffüllen</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>7,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Whiskey Sour</Name>
+    <Zutaten>
+      <Zutat>4 cl Bourbon 4 Roses</Zutat>
+      <Zutat>1 cl Zitronensaft</Zutat>
+      <Zutat>4 Achtel Limetten pressen</Zutat>
+      <Zutat>1 Teelöffel Puderzucker</Zutat>
+      <Zutat>Shaken</Zutat>
+      <Zutat>Cocktailkirsche</Zutat>
+    </Zutaten>
+    <Glas>Tumbler-Glas (Crushed Ice)</Glas>
+    <Preis>7,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Touch Down</Name>
+    <Zutaten>
+      <Zutat>4 cl Vodka</Zutat>
+      <Zutat>2 cl Apricot Brandy</Zutat>
+      <Zutat>1 cl Zitronensaft</Zutat>
+      <Zutat>2 cl Grenadine</Zutat>
+      <Zutat>7 cl Maracujasaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>8,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Swimming Pool</Name>
+    <Zutaten>
+      <Zutat>2 cl Vodka</Zutat>
+      <Zutat>2 cl Bacardi Carta Blanca</Zutat>
+      <Zutat>2 cl Blue Curacao</Zutat>
+      <Zutat>2 cl Sahne</Zutat>
+      <Zutat>2 cl Coco Tara</Zutat>
+      <Zutat>1 cl Zitronensaft</Zutat>
+      <Zutat>5 cl Orangensaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas (Crushed Ice)</Glas>
+    <Preis>9,00 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Sex on the Beach</Name>
+    <Zutaten>
+      <Zutat>4 cl Vodka</Zutat>
+      <Zutat>2 cl Pepino Peach</Zutat>
+      <Zutat>2 cl Zitronensaft</Zutat>
+      <Zutat>1 cl Grenadine</Zutat>
+      <Zutat>7 cl Orangensaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>8,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Gin Fizz</Name>
+    <Zutaten>
+      <Zutat>5 cl Gin</Zutat>
+      <Zutat>3 cl Zitronensaft</Zutat>
+      <Zutat>1 cl Zuckersirup</Zutat>
+      <Zutat>1 Teelöffel Puderzucker</Zutat>
+      <Zutat>Shaken</Zutat>
+      <Zutat>Mit Soda auffüllen</Zutat>
+    </Zutaten>
+    <Glas>Tumbler-Glas</Glas>
+    <Preis>7,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Mai Tai</Name>
+    <Zutaten>
+      <Zutat>4 cl Rum braun (Myers)</Zutat>
+      <Zutat>2 cl Apricot Brandy</Zutat>
+      <Zutat>1 cl Rum 73%</Zutat>
+      <Zutat>2 cl Mandelsirup</Zutat>
+      <Zutat>2 cl Zitronensaft</Zutat>
+      <Zutat>7 cl Ananassaft</Zutat>
+      <Zutat>2 Achtel Limetten pressen</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>9,00 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Green Poison</Name>
+    <Zutaten>
+      <Zutat>4 cl Bacardi Carta Blanca</Zutat>
+      <Zutat>2 cl Malibu</Zutat>
+      <Zutat>2 cl Blue Curacao</Zutat>
+      <Zutat>2 cl Coco Tara</Zutat>
+      <Zutat>2 cl Zitronensaft</Zutat>
+      <Zutat>4 cl Maracujasaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>8,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Pina Colada</Name>
+    <Zutaten>
+      <Zutat>2 cl Bacardi Carta Blanca</Zutat>
+      <Zutat>2 cl Rum braun (Myers)</Zutat>
+      <Zutat>2 cl Coco Tara</Zutat>
+      <Zutat>1 cl Zitronensaft</Zutat>
+      <Zutat>9 cl Ananassaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas (Crushed Ice)</Glas>
+    <Preis>8,00 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Singapore Sling</Name>
+    <Zutaten>
+      <Zutat>4 cl Gin</Zutat>
+      <Zutat>2 cl Cherry Brandy</Zutat>
+      <Zutat>2 cl Cointreau</Zutat>
+      <Zutat>2 cl Zitronensaft</Zutat>
+      <Zutat>1 Tropfen Angostura</Zutat>
+      <Zutat>2 cl Grenadine</Zutat>
+      <Zutat>4 cl Ananassaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>9,00 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>White Russian</Name>
+    <Zutaten>
+      <Zutat>4 cl Vodka</Zutat>
+      <Zutat>2 cl Kahlua</Zutat>
+      <Zutat>6 cl Milch</Zutat>
+      <Zutat>Gemahlene Kaffeebohnen streuen</Zutat>
+    </Zutaten>
+    <Glas>Tumbler-Glas</Glas>
+    <Preis>7,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Moscow Mule</Name>
+    <Zutaten>
+      <Zutat>5cl Vodka</Zutat>
+      <Zutat>4 Achtel Limetten</Zutat>
+      <Zutat>9 cl Spiced Ginger</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>7,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Long Island Ice Tea</Name>
+    <Zutaten>
+      <Zutat>1,5 cl Vodka</Zutat>
+      <Zutat>1,5 cl Bacardi Carta Blanca</Zutat>
+      <Zutat>1,5 cl Gin</Zutat>
+      <Zutat>1,5 cl Tequila Weiß</Zutat>
+      <Zutat>1,5 cl Triple Sec</Zutat>
+      <Zutat>2 cl Zitronensaft</Zutat>
+      <Zutat>4 cl Orangensaft</Zutat>
+      <Zutat>2 - 3 cl Cola</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>11,00 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Lynchburg Lemonade</Name>
+    <Zutaten>
+      <Zutat>4 cl Jack Daniels</Zutat>
+      <Zutat>2 cl Triple Sec</Zutat>
+      <Zutat>4 Achtel Limetten</Zutat>
+      <Zutat>Shaken</Zutat>
+      <Zutat>Mit Sprite auffüllen</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>8,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Zombie</Name>
+    <Zutaten>
+      <Zutat>2 cl Bacardi Carta Blanca</Zutat>
+      <Zutat>2 cl Rum braun (Myers)</Zutat>
+      <Zutat>2 cl Rum 73%</Zutat>
+      <Zutat>Shaken</Zutat>
+      <Zutat>2 cl Cherry Brandy</Zutat>
+      <Zutat>8 cl Orangensaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>10,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Tom Collins</Name>
+    <Zutaten>
+      <Zutat>6 cl Gin</Zutat>
+      <Zutat>3 cl Zitronensaft</Zutat>
+      <Zutat>1 cl Zuckersirup</Zutat>
+      <Zutat>1 Teelöffel Puderzucker</Zutat>
+      <Zutat>Shaken</Zutat>
+      <Zutat>Mit Soda auffüllen</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>8,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Planters Punch</Name>
+    <Zutaten>
+      <Zutat>6 cl Rum braun (Myers)</Zutat>
+      <Zutat>2 cl Zitronensaft</Zutat>
+      <Zutat>1 cl Grenadine</Zutat>
+      <Zutat>1 Tropfen Angostura</Zutat>
+      <Zutat>7 cl Orangensaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>9,00 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Harvey Wallbanger</Name>
+    <Zutaten>
+      <Zutat>4 cl Vodka</Zutat>
+      <Zutat>2 cl Galliano</Zutat>
+      <Zutat>10 cl Orangensaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>7,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Mary Pickford</Name>
+    <Zutaten>
+      <Zutat>6 cl Bacardi Carta Blanca</Zutat>
+      <Zutat>2 cl Maraschino</Zutat>
+      <Zutat>1 cl Grenadine</Zutat>
+      <Zutat>7 cl Ananassaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>9,00 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Caipirinha</Name>
+    <Zutaten>
+      <Zutat>6 Achtel Limetten</Zutat>
+      <Zutat>1 Esslöffel Rohrzucker</Zutat>
+      <Zutat>5 cl Canario</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas (Crushed Ice)</Glas>
+    <Preis>7,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Bahama Mama</Name>
+    <Zutaten>
+      <Zutat>2 cl Bacardi Carta Blanca</Zutat>
+      <Zutat>2 cl Rum braun (Myers)</Zutat>
+      <Zutat>2 cl Malibu</Zutat>
+      <Zutat>1 cl Grenadine</Zutat>
+      <Zutat>4 cl Orangensaft</Zutat>
+      <Zutat>4 cl Ananassaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>9,00 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Hurricane</Name>
+    <Zutaten>
+      <Zutat>2 cl Bacardi Carta Blanca</Zutat>
+      <Zutat>2 cl Rum braun (Myers)</Zutat>
+      <Zutat>2 cl Lime Juice</Zutat>
+      <Zutat>2 cl Maracujasirup</Zutat>
+      <Zutat>4 cl Orangensaft</Zutat>
+      <Zutat>4 cl Ananassaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>8,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Aperol Sour</Name>
+    <Zutaten>
+      <Zutat>5 cl Aperol</Zutat>
+      <Zutat>2 cl Zitronensaft</Zutat>
+      <Zutat>2 cl Zuckersirup</Zutat>
+      <Zutat>3 cl Orangensaft</Zutat>
+      <Zutat>Orangenscheibe</Zutat>
+    </Zutaten>
+    <Glas>Tumbler-Glas</Glas>
+    <Preis>7,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Vodka Sour</Name>
+    <Zutaten>
+      <Zutat>4 cl Vodka</Zutat>
+      <Zutat>1 cl Zitronensaft</Zutat>
+      <Zutat>4 Achtel Limetten pressen</Zutat>
+      <Zutat>1 Teelöffel Puderzucker</Zutat>
+      <Zutat>Shaken</Zutat>
+      <Zutat>Zitronenscheibe</Zutat>
+    </Zutaten>
+    <Glas>Tumbler-Glas (Crushed Ice)</Glas>
+    <Preis>7,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Tequila Sunrise</Name>
+    <Zutaten>
+      <Zutat>4 cl Tequila Weiß</Zutat>
+      <Zutat>1 Spritzer Zitronensaft</Zutat>
+      <Zutat>10 cl Orangensaft</Zutat>
+      <Zutat>2 cl Grenadine (floaten)</Zutat>
+    </Zutaten>
+    <Glas>Longdrinkglas (Eis)</Glas>
+    <Preis>7,00 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Mint Julep</Name>
+    <Zutaten>
+      <Zutat>6 cl Bourbon 4 Roses</Zutat>
+      <Zutat>4 Blätter Minze</Zutat>
+      <Zutat>1 Teelöffel Puderzucker</Zutat>
+      <Zutat>4 cl Mineralwasser</Zutat>
+    </Zutaten>
+    <Glas>Tumbler-Glas</Glas>
+    <Preis>8,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Aperol Sprizz</Name>
+    <Zutaten>
+      <Zutat>10 cl Prosecco</Zutat>
+      <Zutat>2 cl Aperol</Zutat>
+      <Zutat>4 cl Mineralwasser</Zutat>
+      <Zutat>Orangenscheibe</Zutat>
+    </Zutaten>
+    <Glas>Longdrinkglas (Eis)</Glas>
+    <Preis>5,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Hugo</Name>
+    <Zutaten>
+      <Zutat>10 cl Prosecco</Zutat>
+      <Zutat>2 Blätter Minze</Zutat>
+      <Zutat>2 cl Holundersirup</Zutat>
+      <Zutat>4 cl Mineralwasser</Zutat>
+    </Zutaten>
+    <Glas>Longdrinkglas (Eis)</Glas>
+    <Preis>5,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Strawberry Kiss (alk.frei)</Name>
+    <Zutaten>
+      <Zutat>2 cl Sahne</Zutat>
+      <Zutat>4 cl Erdbeersirup</Zutat>
+      <Zutat>2 cl Zitronensaft</Zutat>
+      <Zutat>4 cl Orangensaft</Zutat>
+      <Zutat>4 cl Ananassaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>5,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Coconut Kiss (alk.frei)</Name>
+    <Zutaten>
+      <Zutat>2 cl Sahne</Zutat>
+      <Zutat>4 cl Coco Tara</Zutat>
+      <Zutat>2 cl Zitronensaft</Zutat>
+      <Zutat>4 cl Orangensaft</Zutat>
+      <Zutat>4 cl Ananassaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>5,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Ipanema (alk.frei)</Name>
+    <Zutaten>
+      <Zutat>6 Achtel Limetten</Zutat>
+      <Zutat>1 Esslöffel Rohrzucker</Zutat>
+      <Zutat>5 cl Ginger Ale</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas (Crushed Ice)</Glas>
+    <Preis>5,50 €</Preis>
+  </Cocktail>
+  <Cocktail>
+    <Name>Carribean (alk.frei)</Name>
+    <Zutaten>
+      <Zutat>2 cl Sahne</Zutat>
+      <Zutat>2 cl Limettensaft</Zutat>
+      <Zutat>2 cl Mangosirup</Zutat>
+      <Zutat>2 cl Coco Tara</Zutat>
+      <Zutat>4 cl Maracujasaft</Zutat>
+      <Zutat>4 cl Ananassaft</Zutat>
+    </Zutaten>
+    <Glas>Cocktailglas</Glas>
+    <Preis>5,50 €</Preis>
+  </Cocktail>
+</Cocktails>
